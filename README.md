@@ -12,7 +12,7 @@ An application for your sticki notes!
 
 ✏️ Replace generic files with the ones from this repo
 
-✏️ Install material UI (npm install @material-ui/core) and Icons (npm install @material-ui/icons)
+✏️ Install material UI (*npm install @material-ui/core*) and Icons (*npm install @material-ui/icons*)
 
 ✏️ cd to your **name of app** 
 
