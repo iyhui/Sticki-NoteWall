@@ -1,14 +1,10 @@
-# 📚: Stick - Note/Post App
+# 📚 Sticki - Note/Post App
 
 ### Installation
 
-:cyclone: Download App
+✏️ Create a new react app (npx create-react-app my-app)
+✏️ Download files
+✏️ Replace generic files with the ones from this repo
+✏️ Install material UI (npm install @material-ui/core) and Icons (npm install @material-ui/icons)
+:pencil: npm start
 
-:cyclone: Install pods ("Pod Install" in the terminal). Make sure you're in the Noti directory.
-
-:cyclone: Open Workspace and run the program (command + R)
-
-
-:cyclone: Create your own user/password
-
-:cyclone: Or use premade accounts: user1@690.com, user2@690.com. Password is the same and already prestored.
