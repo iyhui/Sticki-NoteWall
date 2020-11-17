@@ -1,4 +1,4 @@
-# 📚 Sticki - Note/Post App
+# 🗒 Sticki - Note/Post App
 
 ### Installation
 
