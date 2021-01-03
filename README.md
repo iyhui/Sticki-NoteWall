@@ -2,7 +2,7 @@
 
 An application for your sticki notes!
 
-You can view it on [Code Sandbox](https://codesandbox.io/s/sticki-notewall-y0htj).
+You can [view this project on Code Sandbox](https://codesandbox.io/s/sticki-notewall-y0htj).
 
 ### Installation
 
