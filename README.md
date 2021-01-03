@@ -2,8 +2,6 @@
 
 An application for your sticki notes!
 
-😔 Due to the high volume of node modules, this app wasn't uploaded to its entirety.
-
 You can view it on [Code Sandbox](https://codesandbox.io/s/sticki-notewall-y0htj).
 
 ### Installation
